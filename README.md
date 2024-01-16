@@ -3,7 +3,6 @@
 
 
 ## Old Message Server
-------------------
 使用 SocketIO 之前，編寫了一個自定義的消息伺服器，使用了標準的 Python sockets。該伺服器的程式碼位於 old_msg_server/ 目錄中。
 
 
