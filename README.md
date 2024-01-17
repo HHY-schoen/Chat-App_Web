@@ -1,9 +1,11 @@
-## Chat-App_Web 線上聊天應用程式
-使用 Flask 創建一個 front-end，並透過 python socket server 溝通和傳遞訊息。
+## Chat-App_Web 
+- live chat room
+建立一個線上即時聊天室，用戶可以再裡面即時互動、傳遞訊息。
 
+使用 Flask, flasksio 和其他 module 創建一個 front-end，透過 socket server 溝通和傳遞訊息。
 
 ## Old Message Server
-使用 SocketIO 之前，編寫了一個自定義的消息伺服器，使用了標準的 Python sockets。該伺服器的程式碼位於 old_msg_server/ 目錄中。
+使用 SocketIO 前，使用 Python sockets 編寫了一個自定義的消息伺服器 ( 程式碼位於 old_msg_server/ )
 
 
 
