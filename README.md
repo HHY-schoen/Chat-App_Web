@@ -9,4 +9,8 @@
 
 
 -----------
-refer : https://www.youtube.com/watch?v=i824zN0DGIo&t=0s
+refer : 
+
+https://www.youtube.com/watch?v=i824zN0DGIo&t=0s
+
+https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170
