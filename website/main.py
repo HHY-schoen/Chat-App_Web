@@ -27,7 +27,7 @@ def handle_my_custom_event(json, methods=['GET', 'POST']):
         db = DataBase()
         db.save_message(data["name"], data["message"])
 
-    socketio.emit('message response', json, broadcast=True)
+    socketio.emit('message response', json)
 
 
 # MAINLINE
