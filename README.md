@@ -1,5 +1,4 @@
-## Chat-App_Web 
-- live chat room
+## Chat-App_Web ( live chat room )
 建立一個線上即時聊天室，用戶可以再裡面即時互動、傳遞訊息。
 
 使用 Flask, flasksio 和其他 module 創建一個 front-end，透過 socket server 溝通和傳遞訊息。
